@@ -1,4 +1,4 @@
-# AI Assignment: Footfall Counter using Computer Vision
+# Footfall Counter using Computer Vision
 
 This project is a computer vision-based system that counts the number of people entering and exiting through a specific area in a video.
 
